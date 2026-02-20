@@ -1,5 +1,5 @@
 # Techshell
-Members: William Deere and Drew Sylve
+Members: William Deere(w-deere) and Drew Sylve(DJ-Sylve)
 
 
 # Responsibilites
