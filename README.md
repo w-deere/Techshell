@@ -41,6 +41,7 @@ git clone https://github.com/w-deere/Techshell.git
 
 cd Techshell
 
+
 2. Compile and Run the Program
 
 Use the GCC compiler to build the executable. The following command compiles the techshell.c source file into an executable named techshell. and the next runs it:
@@ -49,8 +50,10 @@ gcc techshell.c -o techshell
 
 ./techshell
 
+
 To exit the shell simply type exit or ctrl+d.
 
 
 
-**This peoject was done in our second year of college, during our Systems Programming class**
+
+**This peoject was done in our second year of college, during our Systems Programming class.**
