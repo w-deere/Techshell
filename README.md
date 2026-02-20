@@ -7,6 +7,7 @@ We have each created out techshells based on the project instructions, so you ma
 However, for trying the code out we decided you use the file indicated:
 
 DEEREtechshell.c - use this file for demo of code
+
 SYLVEtechshell.c
 
 
@@ -24,7 +25,7 @@ I/O Redirection: Standard input (<) and standard output (>) redirection work sea
 
 Advanced Parsing: The custom parser correctly interprets spaces inside quotes (e.g., "My Documents") and escaped spaces (e.g., \ ) without breaking the command arguments.
 
-Error Handling: System errors are captured using <errno.h> and printed in the exact required format: Error # (MESSAGE).
+Error Handling: System errors are captured using <errno.h> and printed in the exact required format -> Error # (MESSAGE).
 
 Memory Management: Dynamically allocated memory for user input and token strings is properly freed during the shell's execution cycle.
 
@@ -34,14 +35,18 @@ Memory Management: Dynamically allocated memory for user input and token strings
 
 1. Clone the Repository
 
-To get a copy of this project on your local machine, run the following command in your terminal:
+To get a copy of this project on your local machine, run the following command in your terminal: 
+
 git clone https://github.com/w-deere/Techshell.git
+
 cd Techshell
 
 2. Compile and Run the Program
 
 Use the GCC compiler to build the executable. The following command compiles the techshell.c source file into an executable named techshell. and the next runs it:
+
 gcc techshell.c -o techshell
+
 ./techshell
 
 To exit the shell simply type exit or ctrl+d.
