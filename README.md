@@ -56,4 +56,4 @@ To exit the shell simply type exit or ctrl+d.
 
 
 
-**This peoject was done in our second year of college, during our Systems Programming class.**
+**This project was done in our second year of college, during our Systems Programming class.**
