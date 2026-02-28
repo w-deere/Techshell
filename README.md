@@ -46,10 +46,11 @@ cd Techshell
 
 Use the GCC compiler to build the executable. The following command compiles the techshell.c source file into an executable named techshell. and the next runs it:
 
+```sh
 gcc techshell.c -o techshell
 
 ./techshell
-
+```
 
 To exit the shell simply type exit or ctrl+d.
 
